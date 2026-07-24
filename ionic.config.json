@@ -1,0 +1,20 @@
+{
+  "name": "makitakay-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "projects": {
+    "app": {
+      "name": "app",
+      "integrations": {
+        "capacitor": {}
+      },
+      "platforms": [
+        "web",
+        "ios",
+        "android"
+      ]
+    }
+  }
+}
